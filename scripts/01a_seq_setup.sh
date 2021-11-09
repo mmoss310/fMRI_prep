@@ -11,7 +11,7 @@ SSID=$1
 
 WDIR=/projects/mayrlab/shared/SEQ
 SCANDIR=/projects/lcni/dcm/mayrlab/Mayr/Sequence
-FACEDIR=/projects/bamlab/shared/deface_templates
+FACEDIR=/projects/mayrlab/shared/SEQ/fMRI_prep/deface_templates
 BIDSDIR=$WDIR/bids_data
 
 for s in $SSID
