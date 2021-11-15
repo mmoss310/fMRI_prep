@@ -1,0 +1,71 @@
+................................................
+Copying the raw data
+................................................
+Converting each exposure run
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_7_Run1/Series_7_Run1_Run1_20211104113549_7 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_7_Run1/Series_7_Run1_Run1_20211104113549_7.nii"
+Conversion required 24.383150 seconds (1.170000 for core code).
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_9_Run2/Series_9_Run2_Run2_20211104113549_9 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_9_Run2/Series_9_Run2_Run2_20211104113549_9.nii"
+Conversion required 25.027223 seconds (0.700000 for core code).
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_11_Run3/Series_11_Run3_Run3_20211104113549_11 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_11_Run3/Series_11_Run3_Run3_20211104113549_11.nii"
+Conversion required 50.440002 seconds (1.810000 for core code).
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_13_Run4/Series_13_Run4_Run4_20211104113549_13 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_13_Run4/Series_13_Run4_Run4_20211104113549_13.nii"
+Conversion required 49.946272 seconds (1.810000 for core code).
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_17_Run5/Series_17_Run5_Run5_20211104113549_17 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_17_Run5/Series_17_Run5_Run5_20211104113549_17.nii"
+Conversion required 50.550018 seconds (1.550000 for core code).
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_19_Run6/Series_19_Run6_Run6_20211104113549_19 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_19_Run6/Series_19_Run6_Run6_20211104113549_19.nii"
+Conversion required 43.685093 seconds (1.460000 for core code).
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_21_Run7/Series_21_Run7_Run7_20211104113549_21 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_21_Run7/Series_21_Run7_Run7_20211104113549_21.nii"
+Conversion required 32.338252 seconds (1.420000 for core code).
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 271 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 271 DICOM image(s)
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 271 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_23_Run8/Series_23_Run8_Run8_20211104113549_23 (100x100x72x271)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_23_Run8/Series_23_Run8_Run8_20211104113549_23.nii"
+Conversion required 24.432119 seconds (1.010000 for core code).
+................................................
+Get the structurals
+Chris Rorden's dcm2niiX version v1.0.20180404 GCC4.8.5 (64-bit Linux)
+Warning: only processing last of 176 input files (recompile with 'myEnableMultipleInputs' to recursively process multiple files)
+Found 176 DICOM image(s)
+Convert 176 DICOM as /gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_5_mprage_p2_ND/Series_5_mprage_p2_ND_mprage_p2_20211104113549_5 (256x256x176x1)
+compress: "/usr/bin/pigz" -n -f -6 "/gpfs/projects/mayrlab/shared/SEQ/raw/sub-302/Series_5_mprage_p2_ND/Series_5_mprage_p2_ND_mprage_p2_20211104113549_5.nii"
+Conversion required 2.257215 seconds (0.210000 for core code).
+................................................
+De-identify MPRAGE for public dissemination
+It worked... I think.
